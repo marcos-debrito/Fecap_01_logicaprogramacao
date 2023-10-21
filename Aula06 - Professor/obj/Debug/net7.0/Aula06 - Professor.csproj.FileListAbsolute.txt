@@ -1,0 +1,14 @@
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Professor\bin\Debug\net7.0\Aula06 - Professor.exe
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Professor\bin\Debug\net7.0\Aula06 - Professor.deps.json
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Professor\bin\Debug\net7.0\Aula06 - Professor.runtimeconfig.json
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Professor\bin\Debug\net7.0\Aula06 - Professor.dll
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Professor\bin\Debug\net7.0\Aula06 - Professor.pdb
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Professor\obj\Debug\net7.0\Aula06 - Professor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Professor\obj\Debug\net7.0\Aula06 - Professor.AssemblyInfoInputs.cache
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Professor\obj\Debug\net7.0\Aula06 - Professor.AssemblyInfo.cs
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Professor\obj\Debug\net7.0\Aula06 - Professor.csproj.CoreCompileInputs.cache
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Professor\obj\Debug\net7.0\Aula06 - Professor.dll
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Professor\obj\Debug\net7.0\refint\Aula06 - Professor.dll
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Professor\obj\Debug\net7.0\Aula06 - Professor.pdb
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Professor\obj\Debug\net7.0\Aula06 - Professor.genruntimeconfig.cache
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Professor\obj\Debug\net7.0\ref\Aula06 - Professor.dll

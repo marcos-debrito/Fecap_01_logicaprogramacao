@@ -1,0 +1,14 @@
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Jogo\bin\Debug\net7.0\Aula06 - Jogo.exe
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Jogo\bin\Debug\net7.0\Aula06 - Jogo.deps.json
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Jogo\bin\Debug\net7.0\Aula06 - Jogo.runtimeconfig.json
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Jogo\bin\Debug\net7.0\Aula06 - Jogo.dll
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Jogo\bin\Debug\net7.0\Aula06 - Jogo.pdb
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Jogo\obj\Debug\net7.0\Aula06 - Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Jogo\obj\Debug\net7.0\Aula06 - Jogo.AssemblyInfoInputs.cache
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Jogo\obj\Debug\net7.0\Aula06 - Jogo.AssemblyInfo.cs
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Jogo\obj\Debug\net7.0\Aula06 - Jogo.csproj.CoreCompileInputs.cache
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Jogo\obj\Debug\net7.0\Aula06 - Jogo.dll
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Jogo\obj\Debug\net7.0\refint\Aula06 - Jogo.dll
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Jogo\obj\Debug\net7.0\Aula06 - Jogo.pdb
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Jogo\obj\Debug\net7.0\Aula06 - Jogo.genruntimeconfig.cache
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula06 - Jogo\obj\Debug\net7.0\ref\Aula06 - Jogo.dll

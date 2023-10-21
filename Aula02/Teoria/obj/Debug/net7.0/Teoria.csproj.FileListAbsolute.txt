@@ -1,0 +1,14 @@
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula02\Teoria\bin\Debug\net7.0\Teoria.exe
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula02\Teoria\bin\Debug\net7.0\Teoria.deps.json
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula02\Teoria\bin\Debug\net7.0\Teoria.runtimeconfig.json
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula02\Teoria\bin\Debug\net7.0\Teoria.dll
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula02\Teoria\bin\Debug\net7.0\Teoria.pdb
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula02\Teoria\obj\Debug\net7.0\Teoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula02\Teoria\obj\Debug\net7.0\Teoria.AssemblyInfoInputs.cache
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula02\Teoria\obj\Debug\net7.0\Teoria.AssemblyInfo.cs
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula02\Teoria\obj\Debug\net7.0\Teoria.csproj.CoreCompileInputs.cache
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula02\Teoria\obj\Debug\net7.0\Teoria.dll
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula02\Teoria\obj\Debug\net7.0\refint\Teoria.dll
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula02\Teoria\obj\Debug\net7.0\Teoria.pdb
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula02\Teoria\obj\Debug\net7.0\Teoria.genruntimeconfig.cache
+C:\Users\Marco\OneDrive\Documentos\Fecap\1_SEMESTRE\Algoritmos e Logica\Aula02\Teoria\obj\Debug\net7.0\ref\Teoria.dll

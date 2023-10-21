@@ -1,0 +1,7 @@
+--------------Resumo dos conteúdos ----------------
+
+Comandos para rodar o script -> 
+
+dotnet new console -> gera uma aplicação para CONSOLE!
+
+dotnet run         -> roda o script 
