@@ -1,0 +1,14 @@
+C:\Users\Usuário\Desktop\codigos\bin\Debug\net7.0\codigos.exe
+C:\Users\Usuário\Desktop\codigos\bin\Debug\net7.0\codigos.deps.json
+C:\Users\Usuário\Desktop\codigos\bin\Debug\net7.0\codigos.runtimeconfig.json
+C:\Users\Usuário\Desktop\codigos\bin\Debug\net7.0\codigos.dll
+C:\Users\Usuário\Desktop\codigos\bin\Debug\net7.0\codigos.pdb
+C:\Users\Usuário\Desktop\codigos\obj\Debug\net7.0\codigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\codigos\obj\Debug\net7.0\codigos.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\codigos\obj\Debug\net7.0\codigos.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\codigos\obj\Debug\net7.0\codigos.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\codigos\obj\Debug\net7.0\codigos.dll
+C:\Users\Usuário\Desktop\codigos\obj\Debug\net7.0\refint\codigos.dll
+C:\Users\Usuário\Desktop\codigos\obj\Debug\net7.0\codigos.pdb
+C:\Users\Usuário\Desktop\codigos\obj\Debug\net7.0\codigos.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\codigos\obj\Debug\net7.0\ref\codigos.dll
